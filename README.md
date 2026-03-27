@@ -1,6 +1,6 @@
 # Multilingual Legal Advisory Chatbot (MLAC)
 
-> **MSc Dissertation Project — Robert Gordon University (Distinction)**
+> **MSc Dissertation Project - Robert Gordon University (Distinction)**
 > Adebowale Odufuwa | 2022–2024
 
 A proof-of-concept multilingual legal advisory chatbot providing UK criminal law guidance across three jurisdictions in English and French, built using Retrieval-Augmented Generation (RAG) architecture.

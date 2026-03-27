@@ -21,12 +21,12 @@ MLAC demonstrates how AI can democratise access to legal information. Users can 
 
 ## ✨ Features
 
-- 🌍 **Multilingual** — English and French with legal-grade translation via DeepL
-- ⚖️ **Multi-Jurisdictional** — England & Wales, Scotland, Northern Ireland, and comparative mode
-- 🧠 **RAG Architecture** — semantic retrieval from real legal documents using Pinecone
-- 💬 **Conversation Memory** — maintains context across the session
-- 📋 **Session Management** — satisfaction survey and session logging
-- 🔒 **GDPR-Compliant** — data handling aligned with UK data protection requirements
+- 🌍 **Multilingual** - English and French with legal-grade translation via DeepL
+- ⚖️ **Multi-Jurisdictional** - England & Wales, Scotland, Northern Ireland, and comparative mode
+- 🧠 **RAG Architecture** - semantic retrieval from real legal documents using Pinecone
+- 💬 **Conversation Memory** - maintains context across the session
+- 📋 **Session Management** - satisfaction survey and session logging
+- 🔒 **GDPR-Compliant** - data handling aligned with UK data protection requirements
 
 ---
 
@@ -198,17 +198,17 @@ MLACprime/
 
 ## 📄 License
 
-MIT License — see [LICENSE](LICENSE) for details.
+MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 
 ## 🙏 Acknowledgments
 
-- **OpenAI** — GPT-4 and embedding models
-- **Pinecone** — Vector database
-- **DeepL** — Translation services
-- **Streamlit** — Application framework
-- **LangChain** — LLM application tooling
+- **OpenAI** - GPT-4 and embedding models
+- **Pinecone** - Vector database
+- **DeepL** - Translation services
+- **Streamlit** - Application framework
+- **LangChain** - LLM application tooling
 
 ---
 
